@@ -1,0 +1,3 @@
+crm.trigitaltech.com {
+    reverse_proxy server:3000
+}
